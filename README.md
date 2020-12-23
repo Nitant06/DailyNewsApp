@@ -1,6 +1,6 @@
 # DailyNewsApp
 
-A news app which display the top headlines of the day in a scrollable manner which can be read inside a browser
+A news app which display the top headlines of the day in a scrollable manner which can be read inside a built in browser.
 
 Concepts used in building the project are:
 
