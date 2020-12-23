@@ -11,3 +11,6 @@ Concepts used in building the project are:
 3. Applying filters to the api.
 
 4. Custom Tabs
+
+
+![](NewsApp.gif)
